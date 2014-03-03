@@ -1,0 +1,4 @@
+dudas:
+
+- Si usamos una matriz 1x10 la primera y la ultima fila es la misma, que hacemos?
+- En la casilla [1,1] nunca restará vida?? o sólo es en el primer movimiento??
